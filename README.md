@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+[Click here to view the app](https://emission-ml-dashboard1-rq9xu9xx683b6pdqsnfknj.streamlit.app/)
+
 # 🌱 Agri Emission ML Dashboard
 
 > End-to-End Machine Learning Pipeline for Vegetation Health Monitoring using Satellite NDVI and Weather Data
